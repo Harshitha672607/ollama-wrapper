@@ -1,0 +1,51 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# IDEs / editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Test / coverage reports
+.coverage
+htmlcov/
+.tox/
+pytest_cache/
+.cache/
+
+# Python environment files
+*.env
+.env.*  
+
+# Uvicorn / FastAPI reload files
+*.pid
+
+# Temporary files
+*.tmp
+*.swp
+
+# PyInstaller
+dist/
+build/
+*.spec
+
+# PI API temp files if any
+*.json
+
+# Mac / Linux system files
+*.DS_Store
